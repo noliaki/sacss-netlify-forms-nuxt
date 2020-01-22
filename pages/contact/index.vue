@@ -1,7 +1,7 @@
 <template>
   <layout-container>
     <layout-inner>
-      <list-tags tags-name="ul">
+      <list-tags :tags-name="'ul'">
         <li>ほげほげ</li>
         <li>ほげほげ</li>
         <li>ほげほげ</li>
